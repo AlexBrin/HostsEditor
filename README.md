@@ -1,4 +1,4 @@
-# English
+# HostsEditor
 CLI hosts editor for Windows, Linux and Windows Subsystem Linux (WSL) written in Python
 
 **ATTENTION**. Administrator rights are required to work
